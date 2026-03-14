@@ -1,3 +1,4 @@
+// yes i was using template because was lazy to setup everything myself
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
