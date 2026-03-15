@@ -27,6 +27,7 @@
 * **Method Invoker**: Call static or instance methods directly from the browser with custom arguments.
 * **Instance Tracking**: Find live instances of any class in memory.
 * **Component System**: Add or remove components at runtime.
+* **Runtime Code Execution**: Run lua code
 
 ### Key Advantages
 BNM Explorer runs an embedded HTTP server directly inside the game process, allowing for direct memory manipulation without external debugging overhead.
